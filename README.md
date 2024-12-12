@@ -15,23 +15,25 @@ Here are some ideas to get you started:
 -->
 
 <h1>Hello, my name is Robyn McNeil👋 </h1>
-
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-
 <h2>About Me 🙋🏼‍♂️</h2>
-❓Who am I</br>
-A multidisciplinary software development engineer with a broad range of technical skills and practical experience including advanced materials development, plasma/condensed matter/quantum physics, full-stack development, machine learning applications development, advanced manufacturing methods and most product focused roles from the lab to the large-scale market. I am looking to pivot from my hardware focused background into software centric roles where my creativity, dedication to innovation and passion for learning can be put to scale.
+<img align="right" src="me_at_leeside.jpg" width="300" border="none" alt="robyn-mcneil" />
+<h3>❓Who am I</h3>
+<p>
+A multidisciplinary software development engineer with a broad range of technical skills and practical experience including advanced materials development, plasma/condensed matter/quantum physics, full-stack development, machine learning applications development, advanced manufacturing methods and most product focused roles from the lab to the large-scale market. I am looking to pivot from my hardware focused background into software centric roles where my creativity, dedication to innovation and passion for learning can be put to scale.  
+</p>
 
-🧑🏼‍💻 What am I looking for? </br>
-I'm looking for Software Development roles which leverage my breadth of skills and experience while providing opportunities for both professional/technical growth. Some industries I am currently interested in are Game Development, Quantum Computing, Internet of Things, Data Science and Machine Learning. I work with Javascript, Python, HTML, C, C++, CSS and more.
+<h3>🧑🏼‍💻 What am I looking for?</h3>
+<p>
+  I'm looking for Software Development roles which leverage my breadth of skills and experience while providing opportunities for both professional/technical growth. Some industries I am currently interested in are Game Development, Quantum Computing, Internet of Things, Data Science and Machine Learning. I work with Javascript, Python, HTML, C, C++, CSS and more.
+</p>
 
-✨ What am I good at?</br>
-My main areas of expertise are in advanced materials science/nanotechnology, opto-mechanical design, full-stack development, laboratory automation, machine learning applications and quantum computation.
+<h3>✨ What am I good at?</h3>
+<p>My main areas of expertise are in advanced materials science/nanotechnology, opto-mechanical design, full-stack development, laboratory automation, machine learning applications and quantum computation.</p>
 
-😍 What keeps me happy?</br>
-Aside from engineering and academia, I am an avid skier/skateboarder and can often be spotted skating between breweries in the east end of Vancouver on those rare sunny afternoons, or ripping down Whistler on the cold ones!
-
-<h3>Quick Facts</h3>
+<h3>😍 What keeps me happy?</h3>
+<p>Aside from engineering and academia, I am an avid skier/skateboarder and can often be spotted skating between breweries in the east end of Vancouver on those rare sunny afternoons, or ripping down Whistler on the cold ones!
+</p>
+<h2>Quick Facts</h2>
 <ul>
   <li>
     🔭 I’m currently working on my TailTap project!
@@ -50,10 +52,7 @@ Aside from engineering and academia, I am an avid skier/skateboarder and can oft
   </li>
 </ul>
 
-
-<p><img align="right" src="gif.gif" width="300" border="none" alt="robyn-mcneil" />
-</p>
-<h3>My tech Stack</h3>
+<h2>My Tech Stack</h2>
 <p align="left">
   <a><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <a><img alt="React.js" src="https://img.shields.io/badge/React-%2320232A.svg?logo=react&logoColor=%2361DAFB"></a>
@@ -79,7 +78,8 @@ Aside from engineering and academia, I am an avid skier/skateboarder and can oft
   <a><img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white"></a>
 </p>
 
-Connect with me:
+
+<h2>Connect with me:</h2>
 <p align="left"> 
   <a href="https://www.linkedin.com/in/mcneilrobyn/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Robyn McNeil" height="30" width="40" />
